@@ -1,4 +1,4 @@
-#include "factorial.h"
+#include "factorial.hpp"
 #include "gtest/gtest.h"
 
 TEST(factorialTest, HandlesZeroInput) {
